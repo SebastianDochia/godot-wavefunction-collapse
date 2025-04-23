@@ -1,5 +1,5 @@
 # godot-wavefunction-collapse
-A simple demo implementation of wavefunction collapse using GDScript
+A simple demo implementation of wavefunction collapse/procedural generation using GDScript
 
 The algorithm creates a 2D array based on MAP_SIZE_X and MAP_SIZE_Y.
 It then computes the entropy for each point in the array.
